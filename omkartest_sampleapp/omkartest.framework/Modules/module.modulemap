@@ -1,0 +1,6 @@
+framework module omkartest {
+  umbrella header "omkartest.h"
+
+  export *
+  module * { export * }
+}
